@@ -1,5 +1,7 @@
 <?php
 
+    //Ejercicio de envío método GET
+
     if($_GET){
         $nombre=$_GET['txtNombre']; //Recibir informacion del formulario HTML Metodo GET
 
